@@ -1,6 +1,6 @@
 # DataMammoth Go SDK
 
-Official Go client for the [DataMammoth API v2](https://data-mammoth.com/api-docs).
+Official Go client for the [DataMammoth API v2](https://data-mammoth.com/api-docs/reference).
 
 > **Status**: Under development. Not yet published.
 
